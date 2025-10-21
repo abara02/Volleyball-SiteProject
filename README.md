@@ -36,7 +36,7 @@ simplify rotation management, allowing coaches to spend less time on administrat
 
 ## Author
 
-Alexis Baranauskas
+Alexis Baranauskas <br>
 GitHub: @abara02
 Project Link: Volleyball SiteProject
 Live Demo: CodeSandbox
